@@ -1,4 +1,4 @@
-# ReplayDB — Temporal Database Debugging & Replay System
+# ReplayDB - Temporal Database Debugging & Replay System
 
 ReplayDB is a time-travel database debugger and forensic analysis platform designed for PostgreSQL, implemented using **Next.js 15 (App Router)** and **TypeScript**.
 

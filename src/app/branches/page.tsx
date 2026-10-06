@@ -19,6 +19,7 @@ import { BranchSpec, ReplayEvent } from "@/lib/types/event";
 import { BranchComparison } from "@/lib/engine/branch";
 import { BranchModal } from "@/components/branch/branch-modal";
 
+
 const display = (value: unknown) =>
   value === undefined
     ? "—"
